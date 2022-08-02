@@ -1,4 +1,4 @@
-#### Hello ![world-icon](https://www.simpleimageresizer.com/_uploads/photos/1ab78dfe/world-icon_4_4.png) ! I'm @lynnettenguyen and I am a full-stack engineer learning web development technologies!
+#### Hello ![world-icon](https://www.simpleimageresizer.com/_uploads/photos/1ab78dfe/world-icon_7_3.png) ! I'm @lynnettenguyen and I am a full-stack engineer learning web development technologies!
 
 
 #### Languages, Frameworks, Platforms and Libraries:
