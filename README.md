@@ -5,7 +5,7 @@ Hello ![world](https://user-images.githubusercontent.com/98368183/182672492-4d28
 </a>
 <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&theme=dracula" />
 </a>
 <br></br>
 
