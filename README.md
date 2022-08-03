@@ -3,6 +3,7 @@ Hello ![world](https://user-images.githubusercontent.com/98368183/182672492-4d28
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnettenguyen&theme=monokai-metallian" />
 </a>
+<br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&theme=dark" />
 </a>
