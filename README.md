@@ -1,11 +1,18 @@
+<p align="center">
 <img height="50px" align="center" src="https://user-images.githubusercontent.com/98368183/182954339-538b18ef-fb68-4398-a8dc-342ee57c71b9.gif"/> <img height="48px" align="center" src="https://user-images.githubusercontent.com/98368183/182941138-d1c26155-a2ad-429e-b10e-809974ca796d.gif"/> I'm @lynnettenguyen and I am a full-stack engineer learning web development technologies!
+</p>
 
+<p align="center">
 <a href="https://git.io/streak-stats">
   <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnettenguyen&theme=monokai-metallian&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
 </a>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lynnettenguyen&color=A1869E"/>
+</p>
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
