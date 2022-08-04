@@ -1,4 +1,4 @@
-<img height="65px" align="center" src="https://user-images.githubusercontent.com/98368183/182954339-538b18ef-fb68-4398-a8dc-342ee57c71b9.gif"/> <img height="50px" align="center" src="https://user-images.githubusercontent.com/98368183/182941138-d1c26155-a2ad-429e-b10e-809974ca796d.gif"/> I'm @lynnettenguyen and I am a full-stack engineer learning web development technologies!
+<img height="50px" align="center" src="https://user-images.githubusercontent.com/98368183/182954339-538b18ef-fb68-4398-a8dc-342ee57c71b9.gif"/> <img height="48px" align="center" src="https://user-images.githubusercontent.com/98368183/182941138-d1c26155-a2ad-429e-b10e-809974ca796d.gif"/> I'm @lynnettenguyen and I am a full-stack engineer learning web development technologies!
 
 <a href="https://git.io/streak-stats">
   <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnettenguyen&theme=monokai-metallian&hide_border=true" />
