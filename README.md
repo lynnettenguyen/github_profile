@@ -1,4 +1,4 @@
-Hello <img height ="26px" src="https://user-images.githubusercontent.com/98368183/182941138-d1c26155-a2ad-429e-b10e-809974ca796d.gif"/> ! I'm @lynnettenguyen and I am a full-stack engineer learning web development technologies!
+<img height="45px" align="center" src="https://user-images.githubusercontent.com/98368183/182951862-0c6d22cd-5a3c-4669-8230-cbe7f8d1568b.gif"/><img height="33px" align="center" src="https://user-images.githubusercontent.com/98368183/182941138-d1c26155-a2ad-429e-b10e-809974ca796d.gif"/> I'm @lynnettenguyen and I am a full-stack engineer learning web development technologies!
 
 <a href="https://git.io/streak-stats">
   <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnettenguyen&theme=monokai-metallian&hide_border=true" />
