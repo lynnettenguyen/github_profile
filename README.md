@@ -7,7 +7,7 @@
   <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnettenguyen&theme=monokai-metallian&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
+  <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&theme=dracula&hide_border=true&count_private=true&custom_title=Languages" />
 </a>
 </p>
 <p align="center">
