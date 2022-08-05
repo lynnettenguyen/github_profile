@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-  <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lynnettenguyen&hide_border=true&fire=FF5A5F&stroke=FF5A5F&background=0D111749&ring=E5DFFF&sideNums=FF5A5F&sideLabels=C197BA&currStreakLabel=ECCFF5&currStreakNum=ECCFF5&dates=21F577" />
+  <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnettenguyen&hide_border=true&fire=FF5A5F&stroke=FF5A5F&background=0D111749&ring=E5DFFF&sideNums=FF5A5F&sideLabels=C197BA&currStreakLabel=ECCFF5&currStreakNum=ECCFF5&dates=21F577" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&title_color=FF5A5F&text_color=E5DFFF&bg_color=0D111749&hide_border=true&count_private=true&hide_title=true" />
