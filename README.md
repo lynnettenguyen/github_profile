@@ -20,8 +20,8 @@
 <p>
 <img width="46px" src="https://skillicons.dev/icons?i=html"/>
 <img width="46px" src="https://skillicons.dev/icons?i=css"/>
-<img width="46px" src="https://skillicons.dev/icons?i=js"/>
 <img src="https://user-images.githubusercontent.com/98368183/182982975-1c4fcfb8-7667-466e-98ed-e4b7190d7617.png"/>
+<img width="46px" src="https://skillicons.dev/icons?i=js"/>
 </p>
 
 #### Toolkit:
