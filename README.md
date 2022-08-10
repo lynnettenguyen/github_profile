@@ -36,7 +36,7 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 <a href="https://git-scm.com/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183134396-e4d303e5-7e36-4192-a697-0f2dcbf6067f.png"/></a>&nbsp;
 <a href="https://www.postman.com/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182984333-4c0883c6-15b3-4962-9399-4c1b5d09aeac.png"/></a>&nbsp;
 <a href="https://nodejs.org/en/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182984354-0c20e8d8-5c37-440d-9603-c2e1369b71b3.png"/></a>&nbsp;
-<a href="https://netlify.com"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183135111-279d8b03-e368-41a8-a3c6-8bca68a8397c.png"/></a>&nbsp;
+<a href="https://netlify.com"><img width="48px" src="https://user-images.githubusercontent.com/98368183/183135111-279d8b03-e368-41a8-a3c6-8bca68a8397c.png"/></a>&nbsp;
 <a href="https://reactjs.org"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183135524-a013d89b-faf9-4fda-a09f-c08c17f22c31.png"/></a>&nbsp;
 <a href="https://sequelize.org/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182984427-f0363a8c-e140-4559-990a-a10c26889715.png"/></a>&nbsp;
 <a href="https://www.docker.com/"><img width="46px" src="https://skillicons.dev/icons?i=docker"/></a>&nbsp;
