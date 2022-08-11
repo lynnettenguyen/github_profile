@@ -32,19 +32,19 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;  
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;  ![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 -->  
-<a href="https://www.sqlalchemy.org/"><img width="52px" src="https://user-images.githubusercontent.com/98368183/183810565-f42ebbb1-2ddf-458f-bb5e-353b3e9c900f.png"/></a>&nbsp;
-<a href="https://git-scm.com/"><img width="45px" src="https://user-images.githubusercontent.com/98368183/183134396-e4d303e5-7e36-4192-a697-0f2dcbf6067f.png"/></a>&nbsp;
-<a href="https://www.postman.com/"><img width="45px" src="https://user-images.githubusercontent.com/98368183/182984333-4c0883c6-15b3-4962-9399-4c1b5d09aeac.png"/></a>&nbsp;
-<a href="https://nodejs.org/en/"><img width="45px" src="https://user-images.githubusercontent.com/98368183/182984354-0c20e8d8-5c37-440d-9603-c2e1369b71b3.png"/></a>&nbsp;
-<a href="https://netlify.com"><img width="47px" src="https://user-images.githubusercontent.com/98368183/183135111-279d8b03-e368-41a8-a3c6-8bca68a8397c.png"/></a>&nbsp;
-<a href="https://reactjs.org"><img width="47px" src="https://user-images.githubusercontent.com/98368183/183135524-a013d89b-faf9-4fda-a09f-c08c17f22c31.png"/></a>&nbsp;
-<a href="https://sequelize.org/"><img width="45px" src="https://user-images.githubusercontent.com/98368183/182984427-f0363a8c-e140-4559-990a-a10c26889715.png"/></a>&nbsp;
-<a href="https://www.docker.com/"><img width="45px" src="https://skillicons.dev/icons?i=docker"/></a>&nbsp;
+<a href="https://www.sqlalchemy.org/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183810565-f42ebbb1-2ddf-458f-bb5e-353b3e9c900f.png"/></a>&nbsp;
+<a href="https://git-scm.com/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183134396-e4d303e5-7e36-4192-a697-0f2dcbf6067f.png"/></a>&nbsp;
+<a href="https://www.postman.com/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182984333-4c0883c6-15b3-4962-9399-4c1b5d09aeac.png"/></a>&nbsp;
+<a href="https://nodejs.org/en/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182984354-0c20e8d8-5c37-440d-9603-c2e1369b71b3.png"/></a>&nbsp;
+<a href="https://netlify.com"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183135111-279d8b03-e368-41a8-a3c6-8bca68a8397c.png"/></a>&nbsp;
+<a href="https://reactjs.org"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183135524-a013d89b-faf9-4fda-a09f-c08c17f22c31.png"/></a>&nbsp;
+<a href="https://sequelize.org/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182984427-f0363a8c-e140-4559-990a-a10c26889715.png"/></a>&nbsp;
+<a href="https://www.docker.com/"><img width="46px" src="https://skillicons.dev/icons?i=docker"/></a>&nbsp;
 <a href="https://www.postgresql.org/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183138907-2ce1c6e6-67c7-4d3a-b6b3-6e0c5cd9a462.png"/></a>&nbsp;
 <a href="https://www.sqlite.org/index.html"><img width="46px" src="https://skillicons.dev/icons?i=sqlite"/></a>&nbsp;
 <a href="https://redux.js.org"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182985115-487e0f30-c52b-47e8-bae7-48581ec230b4.png"/></a>&nbsp;
 <a href="https://heroku.com"><img width="46px" src="https://skillicons.dev/icons?i=heroku"/></a>&nbsp;
-<a href="https://mochajs.org"><img width="44px" src="https://user-images.githubusercontent.com/98368183/182986031-01e86594-b608-402a-960c-b97cae61e6e3.png"/></a>&nbsp;
+<a href="https://mochajs.org"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182986031-01e86594-b608-402a-960c-b97cae61e6e3.png"/></a>&nbsp;
 <a href="https://pugjs.org/"><img width="46px" src="https://skillicons.dev/icons?i=pug"/></a>&nbsp;
 <a href="https://expressjs.com/"><img width="46px" src="https://skillicons.dev/icons?i=express"/></a>&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.2.x/"><img width="46px" src="https://skillicons.dev/icons?i=flask"/></a>
