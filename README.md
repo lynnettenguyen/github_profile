@@ -45,7 +45,6 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 <a href="https://redux.js.org"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182985115-487e0f30-c52b-47e8-bae7-48581ec230b4.png"/></a>&nbsp;
 <a href="https://heroku.com"><img width="46px" src="https://skillicons.dev/icons?i=heroku"/></a>&nbsp;
 <a href="https://mochajs.org"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182986031-01e86594-b608-402a-960c-b97cae61e6e3.png"/></a>&nbsp;
-<a href="https://pugjs.org/"><img width="46px" src="https://skillicons.dev/icons?i=pug"/></a>&nbsp;
 <a href="https://expressjs.com/"><img width="46px" src="https://skillicons.dev/icons?i=express"/></a>&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.2.x/"><img width="46px" src="https://skillicons.dev/icons?i=flask"/></a>
 
