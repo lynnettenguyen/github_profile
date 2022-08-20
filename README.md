@@ -8,7 +8,7 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
   <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnettenguyen&hide_border=true&fire=FF5A5F&stroke=FF5A5F&background=0D111749&ring=E5DFFF&sideNums=FF5A5F&sideLabels=C197BA&currStreakLabel=ECCFF5&currStreakNum=ECCFF5&dates=FCE544" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=8&layout=compact&title_color=FF5A5F&text_color=E5DFFF&bg_color=0D111749&hide_border=true&count_private=true&hide_title=true" />
+  <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnettenguyen&langs_count=6&layout=compact&title_color=FF5A5F&text_color=E5DFFF&bg_color=0D111749&hide_border=true&hide_title=true" />
 </a>
 </p>
 <p align="center">
