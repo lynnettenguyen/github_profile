@@ -17,22 +17,23 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 
 #### Languages:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
 
-
-<p>
+<!--<p>
 <img src="https://user-images.githubusercontent.com/98368183/182982975-1c4fcfb8-7667-466e-98ed-e4b7190d7617.png"/>&nbsp;
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=js"/></a>
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=html"/></a>&nbsp;
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=css"/></a>&nbsp;
-</p>
+</p>-->
 
-#### Toolkit:
+#### Frontend:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sql&logoColor=BA1212&labelColor=AD0000&color=A90000)&nbsp;  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp; ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp; 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp; ![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp; ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+#### Backend:
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sql&logoColor=BA1212&labelColor=AD0000&color=A90000)&nbsp;  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;  ![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp; ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
-<a href="https://www.sqlalchemy.org/"><img width="50px" src="https://user-images.githubusercontent.com/98368183/183810565-f42ebbb1-2ddf-458f-bb5e-353b3e9c900f.png"/></a>&nbsp;
+
+<!--<a href="https://www.sqlalchemy.org/"><img width="50px" src="https://user-images.githubusercontent.com/98368183/183810565-f42ebbb1-2ddf-458f-bb5e-353b3e9c900f.png"/></a>&nbsp;
 <a href="https://git-scm.com/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/183134396-e4d303e5-7e36-4192-a697-0f2dcbf6067f.png"/></a>&nbsp;
 <a href="https://www.postman.com/"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182984333-4c0883c6-15b3-4962-9399-4c1b5d09aeac.png"/></a>&nbsp;
 <a href="https://aws.amazon.com/pm/serv-s3/?trk=fecf68c9-3874-4ae2-a7ed-72b6d19c8034&sc_channel=ps&s_kwcid=AL!4422!3!536452728638!e!!g!!aws%20s3&ef_id=Cj0KCQjw94WZBhDtARIsAKxWG-9-5C8-Ucx94s7ie178aktZ8y67QLMoYFlPatinLX791_1ayLYL9BQaArrXEALw_wcB:G:s&s_kwcid=AL!4422!3!536452728638!e!!g!!aws%20s3"><img width="46px" src="https://user-images.githubusercontent.com/98368183/190272761-8743b333-4955-4a54-9dbf-a9d4ea0b7d4b.png"/></a>&nbsp;
@@ -45,6 +46,6 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 <a href="https://heroku.com"><img width="46px" src="https://skillicons.dev/icons?i=heroku"/></a>&nbsp;
 <a href="https://mochajs.org"><img width="46px" src="https://user-images.githubusercontent.com/98368183/182986031-01e86594-b608-402a-960c-b97cae61e6e3.png"/></a>&nbsp;
 <a href="https://expressjs.com/"><img width="46px" src="https://skillicons.dev/icons?i=express"/></a>&nbsp;
-<a href="https://flask.palletsprojects.com/en/2.2.x/"><img width="46px" src="https://skillicons.dev/icons?i=flask"/></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/"><img width="46px" src="https://skillicons.dev/icons?i=flask"/></a>-->
 
 <!--<img width="46px" src="https://user-images.githubusercontent.com/98368183/182984974-d57b8b7e-2ab5-4efb-93e2-28b6331d74e1.png"/>&nbsp;-->
