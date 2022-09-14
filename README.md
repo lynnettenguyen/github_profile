@@ -16,15 +16,15 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 </p>
 
 #### Languages:
-<!-- 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
--->  
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
+
 
 <p>
-<a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=html"/></a>&nbsp;
-<a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=css"/></a>&nbsp;
 <img src="https://user-images.githubusercontent.com/98368183/182982975-1c4fcfb8-7667-466e-98ed-e4b7190d7617.png"/>&nbsp;
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=js"/></a>
+<a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=html"/></a>&nbsp;
+<a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=css"/></a>&nbsp;
 </p>
 
 #### Toolkit:
