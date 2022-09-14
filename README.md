@@ -21,7 +21,7 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 
 <!--<p>
 <img src="https://user-images.githubusercontent.com/98368183/182982975-1c4fcfb8-7667-466e-98ed-e4b7190d7617.png"/>&nbsp;
-<a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=js"/></a>
+<a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=js"/></a>&nbsp; 
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=html"/></a>&nbsp;
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=css"/></a>&nbsp;
 </p>-->
