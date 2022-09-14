@@ -1,6 +1,6 @@
 <p align="center">
 <img height="50px" align="center" src="https://user-images.githubusercontent.com/98368183/182954339-538b18ef-fb68-4398-a8dc-342ee57c71b9.gif"/> <img height="48px" align="center" src="https://user-images.githubusercontent.com/98368183/182941138-d1c26155-a2ad-429e-b10e-809974ca796d.gif"/> 
-I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> and I am a full-stack engineer learning web development technologies!
+I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> and I am a full-stack engineer specializing in web development technologies!
 </p>
 
 <p align="center">
