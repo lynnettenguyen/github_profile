@@ -1,6 +1,6 @@
 <p align="center">
 <img height="50px" align="center" src="https://user-images.githubusercontent.com/98368183/182954339-538b18ef-fb68-4398-a8dc-342ee57c71b9.gif"/> <img height="48px" align="center" src="https://user-images.githubusercontent.com/98368183/182941138-d1c26155-a2ad-429e-b10e-809974ca796d.gif"/> 
-I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> and I am a full-stack engineer specializing in web development technologies!
+I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> and I am a full-stack engineer specializing in web and mobile development technologies!
 </p>
 
 <p align="center">
@@ -16,8 +16,7 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 </p>
 
 #### Languages:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  
 <!--<p>
 <img src="https://user-images.githubusercontent.com/98368183/182982975-1c4fcfb8-7667-466e-98ed-e4b7190d7617.png"/>&nbsp;
@@ -25,6 +24,9 @@ I'm <a href="https://www.linkedin.com/in/lynnettenguyen/">@lynnettenguyen</a> an
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=html"/></a>&nbsp;
 <a href="https://skillicons.dev"><img width="46px" src="https://skillicons.dev/icons?i=css"/></a>&nbsp;
 </p>-->
+
+#### Mobile:
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Frontend:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
